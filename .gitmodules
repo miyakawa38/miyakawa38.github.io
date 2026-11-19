@@ -1,0 +1,3 @@
+[submodule "DSP-proliferator-calculator"]
+	path = DSP-proliferator-calculator
+	url = https://github.com/miyakawa38/DSP-proliferator-calculator.git
